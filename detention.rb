@@ -1,2 +1,2 @@
-class Detention
-  
+class Detention:
+  attr_accessor 
